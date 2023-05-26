@@ -1,0 +1,1 @@
+Repositório criado para armazenar os códigos a serem produzidos a partir do tutorial do www.learnpython.org.
